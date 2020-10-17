@@ -1,6 +1,6 @@
 # Site settings
 title: PHOTORAMA
-email: ""
+email: "haarish.work@gmail.com"
 description: "Photo Journal"
 url: "https://ihaarish.github.io"
 baseurl: "/"
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Haarish
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
